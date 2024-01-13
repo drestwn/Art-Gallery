@@ -42,7 +42,7 @@ export default {
             <div class="w-full carousel rounded-box overflow-hidden">
                 <div class="carousel-item" v-for="(dp, index) in posts" :key="dp.id">
                     <div class="w-full h-72 flex items-center justify-center">
-                        <img :src="dp.imgUrl" alt="Art" class="max-w-full max-h-full rounded" />
+                        <img :src="dp.imgUrl" alt="Art" class="max-w-full max-h-full rounded" v-if="dp.imgUrl" />
                     </div>
                 </div>
             </div>
