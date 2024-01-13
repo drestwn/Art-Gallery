@@ -38,6 +38,6 @@ npm run lint
 # Art-Gallery
 
 <div align="center">
-  <img src="https://github.com/drestwn/Art-Gallery/blob/main/src/assets/Home.png?raw=true" alt="Image 1" width="812" height="375">
+  <img src="https://github.com/drestwn/Art-Gallery/blob/main/src/assets/Home.png?raw=true" alt="Image 1" width="2940px" height="1666px">
   <img src="https://github.com/drestwn/Art-Gallery/blob/main/src/assets/Footer.png?raw=true" alt="Image 2" width="812" height="375">
 </div>
