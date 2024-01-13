@@ -1,6 +1,7 @@
-# client
+# Art Gallery
 
 This template should help get you started developing with Vue 3 in Vite.
+Using simple daisyUI and configuration for live on firebase.
 
 ## Recommended IDE Setup
 
@@ -33,4 +34,5 @@ npm run build
 ```sh
 npm run lint
 ```
+
 # Art-Gallery
